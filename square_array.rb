@@ -1,3 +1,20 @@
+
 def square_array(array)
-  # your code here
-end
+  array.each {|arrays| puts arrays * arrays}
+end 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
